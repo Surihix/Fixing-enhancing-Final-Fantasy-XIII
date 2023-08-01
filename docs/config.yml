@@ -1,3 +1,6 @@
 remote_theme: pages-themes/cayman
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Fixing and Enhancing Final Fantasy XIII
+description: Your one stop guide for installing patches and mods into the steam version of FINAL FANTASY XIII
