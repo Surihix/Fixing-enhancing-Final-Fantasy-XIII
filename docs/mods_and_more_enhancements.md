@@ -1,1 +1,1 @@
-![img](images/enhancements/chr_mod_img.png)
+![img](images/mods_and_more_enhancements/chr_mod_img.png)

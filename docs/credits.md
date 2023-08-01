@@ -1,1 +1,1 @@
-![img](images/enhancements/chr_cre_img.png)
+![img](images/credits/chr_cre_img.png)
