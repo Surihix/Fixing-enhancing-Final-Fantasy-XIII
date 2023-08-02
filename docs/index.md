@@ -2,8 +2,8 @@
 <br><br>
 # Contents
 * [Pre requisites](prerequisites.md)
-* [The Launcher](launcher.md)
 * [The Problems](problems.md)
+* [The Launcher](launcher.md)
 * [Important Fixes](important_fixes.md)
 * [Enhancements](enhancements.md)
 * [Non Severe Problems](non_severe_problems.md)
