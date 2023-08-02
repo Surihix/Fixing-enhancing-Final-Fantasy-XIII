@@ -8,8 +8,8 @@ I suggest installing the game on a drive that is not the C drive. certain PCs mi
 <br><br>Steam by default will set up a directory in the C drive when you begin installing the game and you will have to change that directory in the installer window to another drive on your PC.
 <br><br>Now if you had already installed the game on to your C drive, then you can move the game folder to any other drives on your PC with the "_Move install folder_" option.
 <br><br>You can access this option by right clicking on this game title from the left side of your steam library and selecting "_Properties_". then in the new window that opens, click on the "**LOCAL FILES**" section. the "_Move install folder_" option should be present here.
-<br><br>If you do not see your drive in the drop down box then you can follow the instructions from this page here:
-<br>https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327
+<br><br>If you do not see your drive in the drop down box then you can follow the instructions from this link below:
+<br>[https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327](https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327)
 <br><br>
 ## Verifying Game Integrity
 We will use the "_Verify Integrity of game files.._" option to check if all the files are properly downloaded and installed.
