@@ -3,7 +3,7 @@
 This section would ensure that you are all quickly set up to have an decent playable experience. After following the steps in this section, you should be good enough to properly play the game from start to finish without facing any technical issues.
 
 ## The FF13 fix
-Most of the technical problems can be solved with this fan made fix made by rebtd7. thank you so much for this fix if you are reading this guide rebtd7.
+Most of the technical problems can be solved with this fan made fix made by rebtd7. thank you so much for this fix if you are reading this guide **rebtd7**.
 
 - Download the latest version of the fix from their github releases page:
 <br>https://github.com/rebtd7/FF13Fix/releases
