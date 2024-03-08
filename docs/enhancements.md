@@ -12,11 +12,9 @@ This section of the guide covers the Enhancements that can be applied to the gam
 - Right click and Open the **Nvidia Control panel**
 ![img](images/enhancements/anisotropic-filtering/an-iso_nv_1.jpg)
 
-
 - Select **Manage 3D settings** and go to the **Program settings** tab in the menu. 
 <br>Click on the drop down list at the centre and select **Final Fantasy XIII(ffxiiiimg.exe)**.
 ![img](images/enhancements/anisotropic-filtering/an-iso_nv_2.png)
-
 
 - In the below submenu, select **Anisotropic filtering**, and set the value to whatever you prefer. (x8 or x16 is better) hit apply on the bottom right corner of the control panel.
 ![img](images/enhancements/anisotropic-filtering/an-iso_nv_3.png)
@@ -48,23 +46,22 @@ If your graphic card supports DSR then follow these steps.
 
 
 - Right click and open the **Nvidia Control panel**. 
+![img](images/enhancements/downscaling/dsr_0.jpg)
 
-
-- Select **Manage 3D settings** and go to the [b]Global settings[/b] tab in the menu. 
+- Select **Manage 3D settings** and go to the **Global settings** tab in the menu. 
 Here, scroll down and select **DSR Factors**.
-
+![img](images/enhancements/downscaling/dsr_1.png)
 
 - On selecting it, click on the **Off** button which will bring a small drop down list of resolutions to scale the game up to. 
-
+![img](images/enhancements/downscaling/dsr_2.png)
 
 - I will recommend the 4x one if you are having a 1080p screen. Your choice if you want a lower resolution. after checking it, the **DSR Smoothness** option should be clickable.
-
+![img](images/enhancements/downscaling/dsr_3.png)
 
 - Set the **DSR smoothness** to 0%
-
+![img](images/enhancements/downscaling/dsr_4.png)
 
 - Hit apply at the bottom and wait for the screen to flicker. after the apply and close dialog box disappears, close the Nvidia control panel.
-
 
 
 ### For AMD card users
@@ -79,6 +76,7 @@ After enabling DSR for your respective graphic cards, open the FFXiiiLauncher.ex
 This is the same root directory folder where you had deleted the setup.xml file from before to reset the launcher settings. 
 
 - Select the new resolution listed in the screen settings option.
+![img](images/enhancements/downscaling/launcher_dsr.png)
 
 - I had setup 4x more the resolution than my native 1080p resolution to upscale, which is 3840 x 2160 (4k) listed here in the launcher.
 
