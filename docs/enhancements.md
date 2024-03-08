@@ -8,7 +8,7 @@ This section of the guide covers the Enhancements that can be applied to the gam
 
 ## Anisotropic filtering
 
-## For Nvidia Card users
+### For Nvidia Card users
 - Right click and Open the **Nvidia Control panel**
 ![img](images/enhancements/anisotropic-filtering/an-iso_nv_1.jpg)
 
