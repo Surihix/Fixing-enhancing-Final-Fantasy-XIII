@@ -10,6 +10,7 @@ This section of the guide covers the Enhancements that can be applied to the gam
 
 ## For Nvidia Card users
 - Right click and Open the **Nvidia Control panel**
+![img](images/enhancements/anisotropic-filtering/Screenshot (33).jpg)
 
 
 - Select **Manage 3D settings** and go to the **Program settings** tab in the menu. 
