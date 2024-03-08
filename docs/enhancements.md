@@ -10,14 +10,16 @@ This section of the guide covers the Enhancements that can be applied to the gam
 
 ## For Nvidia Card users
 - Right click and Open the **Nvidia Control panel**
-![img](images/enhancements/anisotropic-filtering/Screenshot (33).jpg)
+![img](images/enhancements/anisotropic-filtering/an-iso_nv_1.jpg)
 
 
 - Select **Manage 3D settings** and go to the **Program settings** tab in the menu. 
-Click on the drop down list at the centre and select **Final Fantasy XIII(ffxiiiimg.exe)**. 
+<br>Click on the drop down list at the centre and select **Final Fantasy XIII(ffxiiiimg.exe)**.
+![img](images/enhancements/anisotropic-filtering/an-iso_nv_2.png)
 
 
 - In the below submenu, select **Anisotropic filtering**, and set the value to whatever you prefer. (x8 or x16 is better) hit apply on the bottom right corner of the control panel.
+![img](images/enhancements/anisotropic-filtering/an-iso_nv_3.png)
 
 
 ### For AMD card users
