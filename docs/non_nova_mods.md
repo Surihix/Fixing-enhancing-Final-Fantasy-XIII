@@ -61,7 +61,7 @@ You can download the mod from this page below and in the Files section as well a
 <br>https://www.nexusmods.com/finalfantasy13/mods/5
 
 The instructions for installing this mod is provided in the mod page by the mod author. 
-Make sure to retain this mod's installer files if you want to install the [Display Any Weapon](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/main/docs/non_nova_mods.md#display-any-weapon) and the [Weapon Model Swap](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/main/docs/non_nova_mods.md#weapon-model-swap).
+Make sure to retain this mod's installer files if you want to install the [Display Any Weapon](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/non_nova_mods.md#display-any-weapon) and the [Weapon Model Swap](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/non_nova_mods.md#weapon-model-swap).
 
 <br>
 
@@ -69,7 +69,7 @@ Make sure to retain this mod's installer files if you want to install the [Displ
 ## Display Any Weapon
 *Requires Gameplay Tweaks and Hard Mode mod installer files*
 
-This mod by [b]MJB[/b] changes the weapon that is displayed on the character when outside battles and when you are moving through the world. 
+This mod by **MJB** changes the weapon that is displayed on the character when outside battles and when you are moving through the world. 
 This does not give you or equip the weapon in combat, but just changes the weapon model that is displayed on the characters when moving through the world.
 
 **Compatibility notice:** This mod is not available for installation via Nova Chrysalia mod manager. if you want to install mods from both the frameworks, then you can install this mod now.
