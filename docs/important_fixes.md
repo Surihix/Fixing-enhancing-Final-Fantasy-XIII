@@ -56,6 +56,8 @@ There's information provided in the ini file itself on what values to edit and w
 If you are using an AMD RDNA GPU, you can set this **DiscardUIVertexBuffer** option to true and see if it improves the performance a bit.
 Be warned that this particular option is still experimental and if its causing any graphical issues in game, then set it back to **false**.
 
+<br>
+
 ## Crash Fix
 The game allocates just 2gb of virtual memory when running on a modern x64 PC and if it exceeds that 2gb limit, it starts to crash.
 
@@ -97,6 +99,8 @@ This *FFXiiiLauncher.exe* file is located in the **FINAL FANTASY XIII** game fol
 
 This should fix the crashes.
 
+<br>
+
 ## More Performance stabilization
 This is an additional step only for Nvdia Card users which makes sure the game's performance at 60fps is a bit more consistent.
 
@@ -114,6 +118,8 @@ If this game name does not appear on the drop down list, you will have to add it
 
 - Click apply at the bottom, wait for the screen to flicker and after the apply and close dialog box disappears, close the Nvidia control panel. this should give you an even better performance.
 
+<br>
+
 ## Abnormal Eyelashes and character hair
 **Only if you face this issue, do the following fix steps**
 
@@ -122,7 +128,7 @@ Due to MSAA completely disabled, some of the stuff like eyelashes and hair rende
 The exe file which is *ffxiii.img.exe* is found in:
 <br>``steamapps\common\FINAL FANTASY XIII\white_data\prog\win\bin``
 
-# For Nvidia users
+### For Nvidia users
 - Right click and Open the Nvidia Control panel.
   ![img](images/important_fixes/abnormal_eyelashes_and_character_hair/ab_eye_1.jpg)
 
@@ -142,8 +148,8 @@ If this game name does not appear on the drop down list, you will have to add it
 
 - This should fix the issue. 
 
-# For AMD users
-<br>Refer this guide and the anti aliasing section.
+### For AMD users
+Refer this guide linked below and in the guide, follow the anti aliasing section.
 <br>https://www.amd.com/en/support/kb/faq/dh-012#faq-Accessing-Radeon-Settings-Gaming-Options
 
 Create a custom application profile for this game by adding the game's exe file from from the top right option in the panel.
@@ -151,6 +157,8 @@ Create a custom application profile for this game by adding the game's exe file 
 Set Anti aliasing mode to Use application settings if it was set to any other option.
 
 Apply the settings, and close the panel. doing all of this should fix the issue. 
+
+<br>
 
 ## Fixing the macro blocking like artifacts on character hair
 *This issue seems to occur only on certain Nvidia cards. AMD cards may or may not have this issue.*
@@ -182,6 +190,8 @@ Here's a solution to fix this issue without disabling MSAA.
 
 - This should fix the macro blocking issue on the hair.
 
+<br>
+
 ## Crash before playing the first cutscene in Nautilus
 The game crashes before the first cutscene in Nautilus when playing in certain resolutions.
 
@@ -196,6 +206,8 @@ Here are the resolutions on which the game crashes:
 <br>Before proceeding further to trigger the cutscene, save the game and set the resolution from the game launcher to a resolution that is not there in the above list.
 - Launch the game after setting your resolution and play through the cutscene.
 - Once the cutscene has finished playing save the game and close it. then set the resolution back to whatever you had set before and continue playing the game.
+
+<br>
 
 ## Closing Notes
 Applying all of these important fixes should ensure that you have an optimal and decent playable experience.
