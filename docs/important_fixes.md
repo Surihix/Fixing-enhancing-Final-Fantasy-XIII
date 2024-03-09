@@ -213,5 +213,3 @@ Here are the resolutions on which the game crashes:
 Applying all of these important fixes should ensure that you have an optimal and decent playable experience.
 
 You can follow the [Enahncements](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/enhancements.md) section next to slightly increase the visuals or you can close this guide and have fun playing the game.
-
-But if you want to enhace the game and mod it, then stick around as we still have a bit more stuff to do that would allow us to have an even more awesome experience with this game.
