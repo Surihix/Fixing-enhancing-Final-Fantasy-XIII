@@ -28,7 +28,7 @@ You can once again see the image for reference:
 We will now have to copy these files inside the game's data folder which is inside the **white_data** folder. the location for that is give below:
 <br>`steamapps\common\FINAL FANTASY XIII\white_data\`
 
-To get to this location first select this game title on your Steam library, right click and select Properties. then in the new window go to **LOCAL FILES** and select the *Browse...* option.
+To get to this location first select this game title on your Steam library, right click and select Properties. then in the new window go to "**LOCAL FILES**" and select the "*Browse...*" option.
 
 This should open the root directory and from there you can get inside the **white_data** sub folder
 
