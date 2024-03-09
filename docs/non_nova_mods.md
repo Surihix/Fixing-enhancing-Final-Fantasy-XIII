@@ -17,7 +17,7 @@ Using the category method of installation would require you to open the mod inst
 Mod Page link:
 <br>https://www.nexusmods.com/finalfantasy13/mods/17?tab=description
 
-Make sure that you have installed the [Crash Fix patch](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/important_fixes.md#crash-fix) before installing this mod. 
+Make sure that you have installed the [Crash Fix](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/important_fixes.md#crash-fix) patch before installing this mod. 
 
 <br>
 
