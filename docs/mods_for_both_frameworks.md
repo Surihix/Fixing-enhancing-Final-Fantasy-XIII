@@ -60,7 +60,7 @@ You can download the mod from this page below and in the Files section as well a
 
 The instructions for installing this mod are provided in the mod page by the mod author. 
 
-Install this mod separately after installing the [HD Project mod](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/non_nova_mods.md#the-ffxiii-hd-project). once again make sure that you have installed the [Crash Fix](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/important_fixes.md#crash-fix) patch before installing this mod.
+Install this mod separately after installing the [FFXIII HD Project mod](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/non_nova_mods.md#the-ffxiii-hd-project). once again make sure that you have installed the [Crash Fix](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/important_fixes.md#crash-fix) patch before installing this mod.
 
 <br>
 
