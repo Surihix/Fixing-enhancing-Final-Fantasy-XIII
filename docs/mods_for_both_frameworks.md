@@ -71,7 +71,7 @@ This is a mod I made that replaces the lower quality audio tracks of the PC vers
 
 <br>
 
-**Warning:** If you are going to install the [4k Pre-rendered Cutscenes with Higher Quality audio v2.0]() mod, then do not install this mod.
+**Warning:** If you are going to install the [4k Pre-rendered Cutscenes with Higher Quality audio v2.0](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/mods_for_both_frameworks.md#4k-pre-rendered-cutscenes-with-higher-quality-audio-v20) mod, then do not install this mod.
 
 You can download the mod from the link below and from the Files section.
 <br>https://www.nexusmods.com/finalfantasy13/mods/34
