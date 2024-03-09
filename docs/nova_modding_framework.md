@@ -94,8 +94,7 @@ Or
 
 If you are playing with Japanese voice overs or have the ASIA/JP region version of the game, then click on **Unpack Game Data (JP Audio)** option.
 
-- On clicking either of the options, an prompt will pop up with a Yes or No options. click on the Yes option and the unpacking process will start. 
-<br>This process will take some time to complete and once the unpacking process is complete, an prompt will pop up saying its done unpacking. click on the Ok button to close this prompt.
+- On clicking either of the options, an prompt will pop up with a Yes or No options. click on the Yes option and the unpacking process will start. this process will take some time to complete and once the unpacking process is complete, an prompt will pop up saying its done unpacking. click on the Ok button to close this prompt.
 
 Click on the Launch game option from the mod manager and if the game launches and functions till the main menu properly, then we are all set to install Nova mods to our game now. 
 
