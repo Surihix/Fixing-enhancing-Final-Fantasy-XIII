@@ -41,7 +41,9 @@ This should open the root directory and from there you can get inside the **whit
 - You will be presented with this command prompt window:
 <br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_5.png)
 
-- Press the number 1 button on your keyboard if you want the game to display Playstation Button prompts or press the number 2 button on your keyboard if you want the game to display the colored Xbox Button Prompts. after pressing your desired selection, press enter and a patching process should start. once finished it should say finished in the black window. close the window now and thats it. 
+- Press the number 1 button on your keyboard if you want the game to display Playstation Button prompts or press the number 2 button on your keyboard if you want the game to display the colored Xbox Button Prompts.
+
+After pressing your desired selection, press enter and a patching process should start. once finished it should say finished in the black window. close the window now and thats it. 
 
 Once its installed, delete the mod folder, the Install Console Button Prompts batch file, and the readme file from the **white_data** folder.
 
