@@ -15,15 +15,15 @@ This mod by **Krisan Thyme** comes with the options to install either the proper
 - After the file is downloaded right-click on the file and extract it with WinRAR software's Extract Here option.
 
 You can see the below image for reference:
-<br>[previewicon=28775484;sizeOriginal,inline;BtnPrompts_1.png][/previewicon]
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_1.png)
 
 If you are using 7Zip software then right click, select 7Zip and the Extract Here option.
 You can once again see the image for reference:
-<br>[previewicon=28775491;sizeOriginal,inline;BtnPrompts_1-2.png][/previewicon]
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_1-2.png)
 
 
 - On extracting the rar file, you will get two files and a folder called mod. Hold the Ctrl button and select the two files and the mod folder. once they are all highlighted, right click and select cut. 
-<br>[previewicon=28775493;sizeOriginal,inline;BtnPrompts_2.png][/previewicon]
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_2.png)
 
 We will now have to copy these files inside the game's data folder which is inside the **white_data** folder. the location for that is give below:
 <br>`steamapps\common\FINAL FANTASY XIII\white_data\`
@@ -33,13 +33,13 @@ To get to this location first select this game title on your Steam library, righ
 This should open the root directory and from there you can get inside the **white_data** sub folder
 
 - Inside the **white_data** folder, right click and select the paste option. the files will all be moved into this folder.
-<br>[previewicon=28775495;sizeOriginal,inline;BtnPrompts_3.png][/previewicon]
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_3.png)
 
 - Now open the **Install Console Button Prompts** batch file. 
-<br>[previewicon=28775498;sizeOriginal,inline;BtnPrompts_4.png][/previewicon]
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_4.png)
 
 - You will be presented with this command prompt window:
-<br>[previewicon=28775499;sizeOriginal,inline;BtnPrompts_5.png][/previewicon]
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_5.png)
 
 - Press the number 1 button on your keyboard if you want the game to display Playstation Button prompts or press the number 2 button on your keyboard if you want the game to display the colored Xbox Button Prompts. after pressing your desired selection, press enter and a patching process should start. once finished it should say finished in the black window. close the window now and thats it. 
 
