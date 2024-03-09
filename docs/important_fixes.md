@@ -122,7 +122,7 @@ Due to MSAA completely disabled, some of the stuff like eyelashes and hair rende
 The exe file which is *ffxiii.img.exe* is found in:
 <br>``steamapps\common\FINAL FANTASY XIII\white_data\prog\win\bin``
 
-<ins>For Nvidia users</ins>
+# For Nvidia users
 - Right click and Open the Nvidia Control panel.
   ![img](images/important_fixes/abnormal_eyelashes_and_character_hair/ab_eye_1.jpg)
 
@@ -142,7 +142,7 @@ If this game name does not appear on the drop down list, you will have to add it
 
 - This should fix the issue. 
 
-<ins>For AMD users</ins>
+# For AMD users
 <br>Refer this guide and the anti aliasing section.
 <br>https://www.amd.com/en/support/kb/faq/dh-012#faq-Accessing-Radeon-Settings-Gaming-Options
 
