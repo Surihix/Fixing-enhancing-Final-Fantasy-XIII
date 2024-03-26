@@ -10,7 +10,7 @@ This mod by **Krisan Thyme** comes with the options to install either the proper
 <br>
 
 - Download the file **FFXIII - Console Button Prompts (v2.0).rar** from this webpage:
-<br>https://mega.nz/file/q9pjSSDI#K4wFR0XtAY4ql9DrpD1kTMieZU9vnf1ib_Ja_aQfmLE
+<br>https://mega.nz/file/P4AmUZpa#4siTdztwhvFtPZuBB0gJ7Ze9uz-pusMXE033iyrkUDQ
 
 - After the file is downloaded right-click on the file and extract it with WinRAR software's Extract Here option.
 
