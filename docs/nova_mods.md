@@ -27,6 +27,7 @@ This section will include the installation of the PS3 or Xbox 360 Button Prompts
 
 - Once you are inside the extracted Core mods folder, you have to click and add the files that begin with [FFXIII] in the filename. the starting name in the file is used to identify the game name for which the mod is supposed to be installed.
 
+<br>
 
 ## PS3 / Xbox 360 / Controller Prompt as Default mods
 - If you are using a Playstation type controller, then double click on the ***PS3 Button Prompts*** ncmp file as shown in the image.
@@ -56,6 +57,7 @@ Hopefully with these steps, you should now be able to install any NCMP type mod 
 The mods installed through this mod manager will only work if you launch the game via the Mod manager's **Launch Game** option.
 if you launch it directly from steam or any other means, then the installed mods will not appear ingame.
 
+<br>
 
 ## Paradigm Shift Quick Camera
 Normally when you initiate a Paradigm Shift for the first time in battle, a long and drawn out
@@ -68,6 +70,7 @@ Just like how you installed the Nova version of the PS3 / X360 prompts mod, we n
 
 Once its added into the manager, click on the mod and then click on the **Install Mod** button. this will install the mod to your game.
 
+<br>
 
 ## 13-1 Randomizer
 This mod by **Bartz24**, allows you to randomize certain aspects of this game making it to a bit more interesting than the base game.
@@ -83,6 +86,7 @@ Expand the Assets option in the link above and click on the ***FF13Randomizer0.7
 
 After downloading the file, extract it and you will get few files. open the README.pdf file and follow the instructions in the pdf to setup the randomizer for this game.
 
+<br>
 
 ## HD Models Plus
 From the Files section in the below link, download the files that have *- Nova Chrysalia* at the end of the filenames.
@@ -93,12 +97,14 @@ Extract the zip files after each one is downloaded and you will get NCMP files. 
 
 When you click on the **Install Mod** button, you will get a command prompt window with some options. follow the instructions that is displayed in the command prompt and the mod will be installed to your game.
 
+<br>
 
 ## Better Quality audio for Pre rendered movies
 In the mod page's description, follow the **Nova mod manager Installation method** and go directly to the ***Installing the mod*** portion.
 
 https://www.nexusmods.com/finalfantasy13/mods/34
 
+<br>
 
 ## 4k Pre-rendered Cutscenes with Higher Quality audio v2.0
 
