@@ -66,7 +66,7 @@ This game unfortunately has an additional DRM that prevents the installation of 
 
 This game unfortunately has an additional DRM that prevents the installation of this patch and so with the help of the FF13Fix, this patch can now be installed on to the game. so make sure that you have installed the FF13Fix before proceeding any further.
 
-- Download the file ***FFXIII - 4gb Patcher (v1.1)*** from here:
+- Download the file ***FFXIII - 4gb Patcher (v1.1).zip*** from here:
 <br>https://mega.nz/file/r9ICiS5B#fT1qlbSemSq7PjPtlMddKDzsUKSmNEFkZ0ySDdxOJiQ
 
 - Right click on the downloaded zip file and select properties.
