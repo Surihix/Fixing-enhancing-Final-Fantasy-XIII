@@ -9,7 +9,7 @@ This mod by **Krisan Thyme** comes with the options to install either the proper
 
 <br>
 
-- Download the file *FFXIII - Console Button Prompts (v2.1).zip* from this webpage:
+- Download the file ***FFXIII - Console Button Prompts (v2.1).zip*** from here:
 <br>https://mega.nz/file/q9pjSSDI#K4wFR0XtAY4ql9DrpD1kTMieZU9vnf1ib_Ja_aQfmLE
 
 - Right click on the downloaded zip file and select properties.
