@@ -1,3 +1,5 @@
+# The Launcher
+
 When you launch the game for the first time, there will be a launcher that you can use to customize the visuals, and the audio language.
 <br><br>
 ![img](images/launcher/launcher.png)
