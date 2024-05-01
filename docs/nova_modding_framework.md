@@ -71,7 +71,7 @@ We will need to unpack the game's files to use mods from the nova framework and 
 
 ## Unpacking steps (for Nova framework):
 
-These set of steps are only for those who are exclusively using the Nova framework for all of the mods. **DO NOT** follow this if you had installed mods from the other two frameworks written here before the Nova framework.
+These set of steps are only for those who are exclusively using the Nova framework for all of the mods. **DO NOT** follow this if you had installed mods from the other two frameworks.
  
 - In the same row where you had set the Filesystem mode, you will see two options **Unpack Game Data (EN Audio)** and **Unpack Game Data (JP Audio)**.
 <br>![img](images/nova_modding_framework/unpacking_steps_(for_nova_framework)/nova-img10.png)
