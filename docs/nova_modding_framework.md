@@ -17,10 +17,11 @@ If you have deleted the patcher files, then you can re download the file from th
 
 And that's it. you can now proceed to the next section.
 
+<br>
 
 ## Setting up Nova Mod manager
 
-You will have to join the **Fabula Nova Crystallis Modding Community** discord server to download the Nova Chrysalia mod manager.
+You will have to join the **Fabula Nova Crystallis Modding Community** discord server to download the Nova Chrysalia mod manager program.
 
 Here is a invite link for the server:
 <br>https://discord.gg/NZzNVesvsB
@@ -28,23 +29,23 @@ Here is a invite link for the server:
 The link for the mod manager download will be in the latest message in the **# announcements** channel on the server. 
 
 - Click on the link under the text **Nova Chrysalia** and that should take you to another site from where you have to download a zip file.
-<br>[previewicon=28532764;sizeOriginal,inline;nova-img1.png][/previewicon]
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img1.png)
 
 - Extract the zip file that you downloaded with WinRAR or 7Zip software and make sure to select the Extract to Nova Chrysalia 1.0.1 option.
-<br>[previewicon=28532766;sizeOriginal,inline;nova-img2.png][/previewicon]
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img2.png)
 
 - After the extraction is done, right click on the extracted folder and select Cut.
-<br>[previewicon=28532767;sizeOriginal,inline;nova-img3.png][/previewicon]
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img3.png)
 
 - Go the same drive where you have the game installed and in there right click and select Paste. this will paste the Nova Chrysalia folder in the drive or folder. 
-Since I have the game installed on drive S: I pasted the folder in this drive.
-<br>[previewicon=28532769;sizeOriginal,inline;nova-img4.png][/previewicon]
+<br>Since I have the game installed on drive S: I pasted the folder in this drive.
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img4.png)
 
-- Click on the NovaChrysalia.exe file and this should open the Mod manager.
-<br>[previewicon=28532770;sizeOriginal,inline;nova-img5.png][/previewicon]
+- Click on the ***NovaChrysalia*** application file and this should open the Mod manager.
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img5.png)
 
 - This is how the Mod manager will look when you open it the first time.
-<br>[previewicon=28532771;sizeOriginal,inline;nova-img6.png][/previewicon]
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img6.png)
 
 **IMPORTANT:** Under any circumstances, do not launch the game now through the mod manager. we will launch the game after we are done reading the Unpacking sections in this guide.
 
@@ -54,26 +55,26 @@ Since I have the game installed on drive S: I pasted the folder in this drive.
 For this game it's XIII-1 and the install directory will be the **FINAL FANTASY XIII** root folder.
 
 - Once you have located the folder in the small navigation window, click on it and then click the Select folder option in the navigation window.
-<br>[previewicon=28532772;sizeOriginal,inline;nova-img7.png][/previewicon]
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img7.png)
 
 - In the Final Fantasy XIII and Final Fantasy XIII-2 settings row, customize the graphic settings for your game as well as the Voice over settings too. 
 <br>If you have the ASIA/JP region of the game with only Japanese voiceovers, then set the voice over settings to Japanese.
-<br>[previewicon=28532774;sizeOriginal,inline;nova-img8.png][/previewicon]
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img8.png)
 
 - Then in the last row, set the Filesystem to Unpacked mode.
-<br>[previewicon=28532776;sizeOriginal,inline;nova-img9.png][/previewicon]
+<br>![img](images/nova_modding_framework/setting_up_nova_mod_manager/nova-img9.png)
 
 We will need to unpack the game's files to use mods from the nova framework and this unpacking will require some free space in the drive where you have the game installed. 
 <br>For XIII-1, you will need about 110gb of free space and this is including both the voiceover data. If you are going to unpack only for a single language option like only for English Audio, then the size is going to be reduced and be around 60gb.
 
-
+<br>
 
 ## Unpacking steps (for Nova framework):
 
 These set of steps are only for those who are exclusively using the Nova framework for all of the mods. **DO NOT** follow this if you had installed mods from the other two frameworks written here before the Nova framework.
  
 - In the same row where you had set the Filesystem mode, you will see two options **Unpack Game Data (EN Audio)** and **Unpack Game Data (JP Audio)**.
-<br>[previewicon=28532777;sizeOriginal,inline;nova-img10.png][/previewicon]
+<br>![img](images/nova_modding_framework/unpacking_steps_(for_nova_framework)/nova-img10.png)
 
 If you are playing with English voice overs, then click on **Unpack Game Data (EN Audio)** option. 
 
