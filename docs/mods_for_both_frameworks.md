@@ -105,6 +105,6 @@ The instructions for installing this mod is provided in the mod page.
 
 <br>
 
-[Next section](non_nova_mods.md)
+[Next section](nova_modding_framework.md)
 
 [Back to Index](index.md)    
