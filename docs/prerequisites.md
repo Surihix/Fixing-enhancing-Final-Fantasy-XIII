@@ -1,3 +1,5 @@
+# Prerequisites
+
 ![img](images/prerequisites/chr_pre_img.png)
 <br><br>
 Before proceeding with this guide, I recommend to start afresh with a clean game install mostly to avoid issues that can arise with previous mod installs and modifications done to the game files.
