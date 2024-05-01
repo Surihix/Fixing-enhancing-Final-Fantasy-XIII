@@ -212,7 +212,7 @@ Here are the resolutions on which the game crashes:
 ## Closing Notes
 Applying all of these important fixes should ensure that you have an optimal and decent playable experience.
 
-You can follow the [Enahncements](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/enhancements.md) section next to slightly increase the visuals or you can close this guide and have fun playing the game.
+You can follow the [Enahncements](enhancements.md) section next to slightly increase the visuals or you can close this guide and have fun playing the game.
 
 <br>
 
