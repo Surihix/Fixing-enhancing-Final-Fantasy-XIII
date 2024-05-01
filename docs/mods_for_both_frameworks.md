@@ -76,7 +76,7 @@ The instructions for installing this mod is provided in the mod's description pa
 
 <br>
 
-## 4K 60 FPS Remastered FMVs
+## FFXIII 4K 60 FPS Remastered FMVs
 
 This mod by **NomNom**, replaces the lower resolution FMVs or the pre rendered cutscenes that the PC version of this game comes by default with much AI upscaled 4k resolution cutscenes.
 
