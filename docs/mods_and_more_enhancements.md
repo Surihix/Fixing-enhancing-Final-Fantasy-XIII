@@ -44,3 +44,7 @@ From this table, I hope you have an rough idea on what all mods you want to inst
 
 There is also a way to have all of the mods from both the frameworks and this requires an specific mod installation order to be followed. 
 The order would be to install the mods that do not have a nova version first and later install the rest of the Nova mods with the Nova mod manager.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
