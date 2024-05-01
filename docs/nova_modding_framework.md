@@ -133,4 +133,6 @@ You can now proceed to the [Installing Nova mods](https://github.com/Surihix/Fix
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Next section](nova_mods.md)
+
+[Back to Index](index.md)    
