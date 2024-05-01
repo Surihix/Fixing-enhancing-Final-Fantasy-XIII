@@ -16,3 +16,7 @@ There are three versions of the game that is being sold on Steam depending on wh
 If you want the English audio, then refund the copy of the game if you can on steam and get the version sold on Square Enix's online store. this version on the Square Enix store will give you an Steam CD key for the EU or NA version of the game. this is an legal method that I can recommend for those who bought the game, is in refund period and with a card or payment method that allows refund transfers to your card directly.
 
 If you are stuck without the ability to refund then buy the game again on the Square Enix store or just play the game with the Japanese audio.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
