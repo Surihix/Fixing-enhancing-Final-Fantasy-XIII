@@ -122,4 +122,6 @@ Once you add each NCMP file into the manager, you have click on them from the li
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Next section](credits.md)
+
+[Back to Index](index.md)    
