@@ -102,3 +102,7 @@ This mod allows you to change the default victory fanfare to a select list of fa
 https://www.nexusmods.com/finalfantasy13/mods/32
 
 The instructions for installing this mod is provided in the mod page.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
