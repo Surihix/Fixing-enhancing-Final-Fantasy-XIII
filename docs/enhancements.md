@@ -36,11 +36,8 @@ Nvidia DSR and AMD VSR does just what GeDoSato does. Unfortunately not all cards
 
 ### For Nvidia Card users
 
-First check if your graphic card supports DSR in this webpage:
-<br>https://www.geforce.com/hardware/technology/dsr/supported-gpus?field_gpu_type_value=desktop-gpus
-
 Older laptop dedicated graphic cards with Optimus technology do not support DSR.
-You can check if your laptop supports DSR by right clicking on the desktop and opening the Nvidia control panel. then check the left side of the panel and see if you have the Display and Video categories apart from the Manage 3D settings category.
+You can check if your laptop or PC supports DSR by right clicking on the desktop and opening the Nvidia control panel. then check the left side of the panel and see if you have the Display and Video categories apart from the Manage 3D settings category.
 
 If your graphic card supports DSR then follow these steps.
 
