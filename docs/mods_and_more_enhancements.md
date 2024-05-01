@@ -47,4 +47,6 @@ The order would be to install the mods that do not have a nova version first and
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Next section](non_nova_mods.md)
+
+[Back to Index](index.md)    
