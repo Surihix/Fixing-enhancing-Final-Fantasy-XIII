@@ -216,4 +216,6 @@ You can follow the [Enahncements](https://github.com/Surihix/Fixing-enhancing-Fi
 
 <br>
 
-[Back to main section](index.md)
+[Next section](enhancements.md)
+
+[Back to Index](index.md)    
