@@ -105,4 +105,6 @@ The instructions for installing this mod is provided in the mod page.
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Next section](non_nova_mods.md)
+
+[Back to Index](index.md)    
