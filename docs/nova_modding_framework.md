@@ -6,7 +6,7 @@ To use the Nova modding framework, we will have to remove the Crash Fix patch th
 
 So when installing the crash fix patch, I mentioned to move the 4gb patcher files to a different folder if you are gonna be using the Nova modding framework. lets now open the patcher program again.
 
-If you have deleted the patcher files, then you can re download the file from the link present in the [Crash Fix section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/important_fixes.md#crash-fix), and follow the same steps given there till the launcher file selection part.
+If you have deleted the patcher files, then you can re download the file from the link present in the [Crash Fix section](important_fixes.md#crash-fix), and follow the same steps given there till the launcher file selection part.
 
 - Now after selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options.
 <br>The first two options are for installing or removing the patch, while the last option is for exiting this installer program.
