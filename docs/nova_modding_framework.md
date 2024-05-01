@@ -123,7 +123,7 @@ This means you can use mods like **The FFXIII HD Project**, **FFXIII HD Full Mot
 
 Press the appropriate key that matches the voiceover by which you are playing the game and the unpacking process will begin. this will take some time to complete depending on your disk speed and during this process, please make sure that you do not interfere with any of the files on the drive where the game is installed.
 
-Once the process, you will be prompted with a message box stating the following:
+Once the process is done, you will be prompted with a message box stating the following:
 <br>*Finished unpacking game data and movie data. Transition is complete.*
 
 - Now in the folder where you had extracted the zip file, select all of the extracted files, then right click and select the delete option.
