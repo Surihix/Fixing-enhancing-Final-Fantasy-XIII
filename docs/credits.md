@@ -3,9 +3,7 @@
 ### Thanks to these amazing individuals and teams:
 
 - **<ins>rebtd7</ins>** for the FF13Fix
-  
-- **<ins>Daniel Pistelli</ins>** for the 4gb crash fix patch
-  
+    
 - Nvidia Profile inspector tool creator **<ins>Orbmu2k</ins>**
   
 - **<ins>Krisan Thyme</ins>** and the rest of the **Nova Chrysalia development team** for the Console button Prompts mod and the Nova Chrysalia Mod Manager
