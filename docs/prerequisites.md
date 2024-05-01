@@ -21,3 +21,7 @@ We will use the "*Verify Integrity of game files..*" option to check whether the
 You can access this option by right clicking on this game title from the left side of your steam library and selecting "_Properties_". then in the new window that opens, click on the "**LOCAL FILES**" section. the "_Verify Integrity of game files.._" option should be present in this section.
 
 Doing this verification should check your game files and re download files that were modified or got corrupt somehow during the download or installation process, thereby making sure that your game is properly installed.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
