@@ -15,13 +15,13 @@ We will first look into installing some of the core mods via Nova mod manager. t
 This section will include the installation of the PS3 or Xbox 360 Button Prompts mod as well as the Controller Prompts as Default mod.
 
 - From the same **# announcements** channel in the discord server where you had downloaded Nova Chrysalia, click on the link under the text Core Mods and that should take you to another site from where you have to download a zip file.
-<br>[img]
+<br>![img](images/nova_mods/core_mods/nova_mod-img1.png)
 
 - Extract the zip file that you downloaded with WinRAR or 7Zip software and make sure to select the ``Extract to Nova Chrysalia - Core Mods v1.0.0\`` option.
-<br>[img]
+<br>![img](images/nova_mods/core_mods/nova_mod-img2.png)
 
 - Now in Nova Chrysalia mod manager, go to the **ModPack Manager** tab.
-<br>[img]
+<br>![img](images/nova_mods/core_mods/nova_mod-img3.png)
 
 - Click on the **Add ModPack** option and navigate into the folder where you had extracted the Core Mods zip file.
 
@@ -32,7 +32,7 @@ This section will include the installation of the PS3 or Xbox 360 Button Prompts
 - If you are using a Playstation type controller, then double click on the ***PS3 Button Prompts*** ncmp file as shown in the image.
 <br>Or
 <br>If you are using an Xbox type controller and want coloured button prompts, then double click on the ***X360 Button Prompts*** file.
-<br>[img]
+<br>![img](images/nova_mods/ps3_x360_contr_prmpt_dflt_mods/nova_mod-img4.png)
 
 - The mod will be added in the ModPack manager as seen in the image.
 <br>[img]
