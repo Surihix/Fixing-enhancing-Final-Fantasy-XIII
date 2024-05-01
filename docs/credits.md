@@ -1,3 +1,5 @@
+# Credits
+
 ![img](images/credits/chr_cre_img.png)
 
 ### Thanks to these amazing individuals and teams:
