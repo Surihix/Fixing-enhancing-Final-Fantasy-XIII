@@ -5,7 +5,7 @@ This section would ensure that you are all quickly set up to have an decent play
 ## The FF13 fix
 Most of the technical problems can be solved with this fan made fix made by rebtd7. thank you so much for this fix if you are reading this guide **rebtd7**.
 
-- Download the latest version of the fix from their github releases page:
+- Download the latest version of the fix from the github repo's releases page:
 <br>https://github.com/rebtd7/FF13Fix/releases
 
 - After the file is downloaded right-click on the file and extract it with WinRAR software's Extract Here option.
