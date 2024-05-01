@@ -100,17 +100,26 @@ This means you can use mods like **The FFXIII HD Project**, **FFXIII HD Full Mot
 <br>https://mega.nz/file/P4AmUZpa#4siTdztwhvFtPZuBB0gJ7Ze9uz-pusMXE033iyrkUDQ
 
 - Right click on the downloaded 7z file and select properties.
+<br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_1.png)
 
 - Then in the bottom of the properties window, untick the Unblock checkbox and then click on the Ok button.
+<br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_2.png)
 
 - Now extract this zip file with winrar or 7zip software and you will get this following folder.
+<br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_3.png)
 
-- Go into the extracted folder and click on the ***FFXIIINovaTransition*** application file. a program should open along with a message box, prompting you to select the *FFXiiiLauncher.exe* file.
+- Go into the extracted folder and click on the ***FFXIIINovaTransition*** application file.
+<br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_4.png)
+
+- On clicking the application, a program should open along with a message box, prompting you to select the *FFXiiiLauncher.exe* file.
+ <br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_5.png)
 
 - Click Ok on the message box and in the small window that opens, navigate to your game's root directory which is the **FINAL FANTASY XIII** folder. the *FFXiiiLauncher.exe* file is present inside this folder.
+<br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_6.png)
 
 - After selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options.
 <br>The first two options are for selecting the voiceovers and the last option is for exiting this installer program.
+<br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_7.png)
 
 Press the appropriate key that matches the voiceover by which you are playing the game and the unpacking process will begin. this will take some time to complete depending on your disk speed and during this process, please make sure that you do not interfere with any of the files on the drive where the game is installed.
 
@@ -118,3 +127,4 @@ Once the process, you will be prompted with a message box stating the following:
 <br>*Finished unpacking game data and movie data. Transition is complete.*
 
 - Now in the folder where you had extracted the zip file, select all of the extracted files, then right click and select the delete option.
+<br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_8.png)
