@@ -70,25 +70,34 @@ This game unfortunately has an additional DRM that prevents the installation of 
 <br>https://mega.nz/file/r9ICiS5B#fT1qlbSemSq7PjPtlMddKDzsUKSmNEFkZ0ySDdxOJiQ
 
 - Right click on the downloaded zip file and select properties.
+  ![img](images/important_fixes/crash_fix/crash_fix_1.png)
 
 - Then in the bottom of the properties window, untick the Unblock checkbox and then click on the Ok button.
+  ![img](images/important_fixes/crash_fix/crash_fix_2.png)
 
 - Now extract this zip file with winrar or 7zip software and you will get these following files
+  ![img](images/important_fixes/crash_fix/crash_fix_3.png)
 
-- Click on the FFXIII4gbPatcher application file and a program should open along with a message box, prompting you to select the FFXiiiLauncher.exe file.
+- Click on the ***FFXIII4gbPatcher*** application file and a program should open along with a message box, prompting you to select the *FFXiiiLauncher.exe* file.
+  ![img](images/important_fixes/crash_fix/crash_fix_4.png)
 
-- Click Ok on the message box and in the small window that opens, navigate to your game's root directory which is the FINAL FANTASY XIII folder. the FFXiiiLauncher.exe file is present inside this folder.
+- Click Ok on the message box and in the small window that opens, navigate to your game's root directory which is the **FINAL FANTASY XIII** folder. the *FFXiiiLauncher.exe* file is present inside this folder.
+  ![img](images/important_fixes/crash_fix/crash_fix_5.png)
 
 - After selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options. <br>The first two options are for installing or removing the patch, while the last option is for exiting this installer program.
+  ![img](images/important_fixes/crash_fix/crash_fix_6.png)
 
 - Press the 'p' key and the patching process will begin. once the patch is done installing, you will be prompted with a message box saying that it has finished installing the patch. click on the Ok button in the message box and that should close the program.
-
+<br>
 If you are planning to use the Nova modding framework, then move the extracted files of this patcher program to a different folder. we will be making use of the remove function of this program, to remove the applied 4gb patch from the executable file. this is a necessary step to be done for the Nova modding framework.
+<br>
+<br>
 
-If you are not planning to use the Nova modding framework, then you can select all of the extracted files, then right click and select the delete option.
+- If you are not planning to use the Nova modding framework, then you can select all of the extracted files, then right click and select the delete option.
+![img](images/important_fixes/crash_fix/crash_fix_7.png)
 
 
-This should fix the crashes.
+<br>This should fix the crashes.
 
 <br>
 
