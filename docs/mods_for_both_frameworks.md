@@ -59,7 +59,7 @@ Install this mod separately after installing the [FFXIII HD Project mod](https:/
 <br>
 
 ## Better Quality audio for Pre rendered movies
-This is a mod I made that replaces the lower quality audio tracks of the PC version's pre-rendered movie files with better quality audio files from the PS3 version.
+This mod replaces the lower quality audio tracks of the PC version's pre-rendered movie files with better quality audio files from the PS3 version.
 
 **Compatibility notice:** The mod can be installed via Nova Chrysalia mod manager. skip this if you want to install mods from both the frameworks as we will be installing the Nova version of this mod.
 
