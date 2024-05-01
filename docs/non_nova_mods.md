@@ -114,3 +114,7 @@ You can download the mod from this page below and in the Files section as well a
 <br>https://www.nexusmods.com/finalfantasy13/mods/30
 
 Follow the v1.1 instructions from the mod page for installing this mod.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
