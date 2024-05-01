@@ -1,3 +1,5 @@
+# Non Severe Problems
+
 ## Pre rendered cutscenes are poorly encoded for the PC version
 
 The Pre rendered cutscenes (that makes this game a bit huge for its time on PC) are encoded at a slightly lower bitrate compared to the PS3 version. its not that big of an issue for new players, but it can be one for returning players from the PS3 version. 
