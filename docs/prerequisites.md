@@ -24,4 +24,4 @@ Doing this verification should check your game files and re download files that 
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Back to main section](docs/index.md)
