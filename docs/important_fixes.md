@@ -59,43 +59,34 @@ Be warned that this particular option is still experimental and if its causing a
 <br>
 
 ## Crash Fix
-The game allocates just 2gb of virtual memory when running on a modern x64 PC and if it exceeds that 2gb limit, it starts to crash.
+The game allocates just 2gb of memory to use due to the large address aware bit value not being set in the main executable file. because of this bit value not being set, the game will start crashing as soon as it exceeds 2gb of memory usage.
 
-This 4gb patch by Daniel Pistelli increases the virtual memory limit that the game has to 4gb thereby preventing preventing the crashes from occurring. thank you **Daniel Pistelli** if you are reading this guide.
-
+This 4gb patcher program will set the large address aware bit value in the executable file, thereby allowing the game to use more than 2gb of memory.
 This game unfortunately has an additional DRM that prevents the installation of this 4gb patch and so with the help of the FF13Fix, this 4gb patch can now be installed on to the game.
 
-Make sure that you have installed the FF13Fix as it is required by this 4gb patch.
-
-To make sure people are able to install this patch easily, I have made a small app that should patch in the same byte changes as the 4gb patch to the exe file.
+This game unfortunately has an additional DRM that prevents the installation of this patch and so with the help of the FF13Fix, this patch can now be installed on to the game. so make sure that you have installed the FF13Fix before proceeding any further.
 
 - Download the file from here:
-<br>https://mega.nz/file/30JHmb4K#3z5Rnqs0QAsBSxN_TK3MpBbSOR6M1L5fuy_v6yOgROg
+<br>https://mega.nz/file/r9ICiS5B#fT1qlbSemSq7PjPtlMddKDzsUKSmNEFkZ0ySDdxOJiQ
 
-- After the file is downloaded right-click on the file and extract it with WinRAR software's Extract Here option.
+- Right click on the downloaded zip file and select properties.
 
-<br>You can see the below image for reference:
-![img](images/important_fixes/crash_fix/crash_fix_1-2.png)
+- Then in the bottom of the properties window, untick the Unblock checkbox and then click on the Ok button.
 
-If you are using 7Zip software then right click, select 7Zip and the Extract Here option.
-<br>You can once again see the image for reference:
-![img](images/important_fixes/crash_fix/crash_fix_1-1.png)
+- Now extract this zip file with winrar or 7zip software and you will get these following files
 
-<br>
+- Click on the FFXIII4gbPatcher application file and a program should open along with a message box, prompting you to select the FFXiiiLauncher.exe file.
 
-- Go into the extracted *4gb Patch Installer* folder, and open the *FFXIII4gbPatcher* application file.
-  ![img](images/important_fixes/crash_fix/crash_fix_2.png)
+- Click Ok on the message box and in the small window that opens, navigate to your game's root directory which is the FINAL FANTASY XIII folder. the FFXiiiLauncher.exe file is present inside this folder.
 
-- On opening this file, an command prompt window will open along with a message box to select the *FFXiiiLauncher.exe* file.
-  ![img](images/important_fixes/crash_fix/crash_fix_3.png)
+- After selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options. <br>The first two options are for installing or removing the patch, while the last option is for exiting this installer program.
 
-- Click OK on the message box and an small locate window should pop up.
-<br>In here, navigate to the **FINAL FANTASY XIII** game folder and double click on the *FFXiiiLauncher.exe* file.
-![img](images/important_fixes/crash_fix/crash_fix_4.png)
+- Press the 'p' key and the patching process will begin. once the patch is done installing, you will be prompted with a message box saying that it has finished installing the patch. click on the Ok button in the message box and that should close the program.
 
-This *FFXiiiLauncher.exe* file is located in the **FINAL FANTASY XIII** game folder. this is the same folder that you had gone through before when installing the *FF13Fix* patch.
+If you are planning to use the Nova modding framework, then move the extracted files of this patcher program to a different folder. we will be making use of the remove function of this program, to remove the applied 4gb patch from the executable file. this is a necessary step to be done for the Nova modding framework.
 
-- The patching should start as soon as the launcher file is selected and should complete in seconds. once the patching is complete, you will get a message box saying that the patch has installed successfully.
+If you are not planning to use the Nova modding framework, then you can select all of the extracted files, then right click and select the delete option.
+
 
 This should fix the crashes.
 
