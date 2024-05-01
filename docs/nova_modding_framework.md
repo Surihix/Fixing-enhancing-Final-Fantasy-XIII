@@ -130,3 +130,7 @@ Once the process is done, you will be prompted with a message box stating the fo
 <br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_8.png)
 
 You can now proceed to the [Installing Nova mods](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/nova_mods.md) section in this guide.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
