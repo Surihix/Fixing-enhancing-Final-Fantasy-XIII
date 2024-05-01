@@ -44,4 +44,6 @@ Once you are in the main menu, press the **ESC** key and select the Yes option i
 
 <br>
 
-[Back to main section](index.md)
+[Next section](important_fixes.md)
+
+[Back to Index](index.md)    
