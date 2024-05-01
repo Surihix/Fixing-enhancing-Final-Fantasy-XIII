@@ -128,3 +128,5 @@ Once the process is done, you will be prompted with a message box stating the fo
 
 - Now in the folder where you had extracted the 7z file, select the extracted folder, then right click and select the delete option.
 <br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_8.png)
+
+You can now proceed to the [Installing Nova mods](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/nova_mods.md) section in this guide.
