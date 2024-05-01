@@ -1,3 +1,5 @@
+# The Problems
+
 ![img](images/problems/chr_prob_img.png)
 ## Severe Problems
 * **Inconsistent 60fps**
