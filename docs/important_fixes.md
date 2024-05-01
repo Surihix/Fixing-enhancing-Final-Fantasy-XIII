@@ -87,7 +87,7 @@ This game unfortunately has an additional DRM that prevents the installation of 
 - After selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options. <br>The first two options are for installing or removing the patch, while the last option is for exiting this installer program.
   ![img](images/important_fixes/crash_fix/crash_fix_6.png)
 
-- Press the 'p' key and the patching process will begin. once the patch is done installing, you will be prompted with a message box saying that it has finished installing the patch. click on the Ok button in the message box and that should close the program.
+Press the 'p' key and the patching process will begin. once the patch is done installing, you will be prompted with a message box saying that it has finished installing the patch. click on the Ok button in the message box and that should close the program.
 <br>
 If you are planning to use the Nova modding framework, then move the extracted files of this patcher program to a different folder. we will be making use of the remove function of this program, to remove the applied 4gb patch from the executable file. this is a necessary step to be done for the Nova modding framework.
 <br>
