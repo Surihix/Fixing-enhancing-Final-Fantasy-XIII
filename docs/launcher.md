@@ -41,3 +41,7 @@ This is just to see if the game opens correctly and if in case it doesn't open, 
 If the game opens correctly, then Skip the Intro cutscene by pressing either the **ENTER** key on your keyboard or the **A** or **Cross** button on your controller.
 
 Once you are in the main menu, press the **ESC** key and select the Yes option in the small window with your mouse cursor to close the game.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
