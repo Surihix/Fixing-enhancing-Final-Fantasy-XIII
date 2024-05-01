@@ -1,34 +1,21 @@
 ## Important 4gb Patch Clean Up
 
-To use the Nova modding framework, we will have to remove the [Crash Fix](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/important_fixes.md#crash-fix) patch that we applied to our executable from before.
+To use the Nova modding framework, we will have to remove the Crash Fix patch that we applied to our executable from before.
 
-- Download this file from this link here:
-<br>https://mega.nz/file/usAHhAoa#4viCKtRMOgUONYSgwdA5rui1ITeLmAQEg4drM6eju_U
+So when installing the crash fix patch, I mentioned to move the 4gb patcher files to a different folder if you are gonna be using the Nova modding framework. lets now open the patcher program again.
 
-- After the file is downloaded right-click on the file and extract it with WinRAR software's Extract Here option.
-<br>[previewicon=28776107;sizeOriginal,inline;patch-clean_1-2.png][/previewicon]
+If you have deleted the patcher files, then you can re download the file from the link present in the [Crash Fix section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/important_fixes.md#crash-fix), and follow the same steps given there till the launcher file selection part.
 
-Or
+- Now after selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options.
+<br>The first two options are for installing or removing the patch, while the last option is for exiting this installer program.
+![img](images/important_fixes/crash_fix/crash_fix_6.png)
 
-If you are using 7Zip software then right click, select 7Zip and the Extract Here option.
-<br>[previewicon=33864461;sizeOriginal,inline;patch-clean_1-1.png][/previewicon]
+- Press the 'r' key and the removing process will begin. when the patch is removed, you will be prompted with a message box saying that it has finished removing the patch. click on the Ok button in the message box and that should close the program.
 
-- Go into the extracted **4gb Patch Cleaner** folder, and open the **FFXIII4gbPatchCleaner** application file.
-<br>[previewicon=28776109;sizeOriginal,inline;patch-clean_2.png][/previewicon]
+- Now in the folder where you have extracted the zip file, select all of the extracted files, then right click and select the delete option.
+![img](images/important_fixes/crash_fix/crash_fix_7.png)
 
-- On opening this file, a command prompt window will open along with a message box to select the FFXiiiLauncher.exe file.
-<br>[previewicon=28776111;sizeOriginal,inline;patch-clean_3.png][/previewicon]
-
-- Click OK on the message box and a small locate window should pop up.
-<br>In here, navigate to the FINAL FANTASY XIII game folder and double click on the FFXiiiLauncher.exe
-
-This FFXiiiLauncher.exe file is located in the FINAL FANTASY XIII game folder. this is the same folder that you had gone through before when installing the crash fix patch.
-
-- The clean up should start as soon as the launcher file is selected and should complete in seconds. once the patching is complete, the following message printed on the command prompt window:
-<br>`Successfully removed 4gb patch from exe file`
-
-- And that's it.
-
+And that's it. you can now proceed to the next section.
 
 
 ## Setting up Nova Mod manager
