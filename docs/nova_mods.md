@@ -119,3 +119,7 @@ After downloading each zip file, extract them individually and you will get NCMP
 You will have to add these NCMP files with the **Add ModPack** option present in the **ModPack Manager** tab in the Nova Mod manager.
 
 Once you add each NCMP file into the manager, you have click on them from the list and then click on the **Install Mod** button. this will install each FMV set remastered by this mod into your game files.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
