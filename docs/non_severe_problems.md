@@ -19,4 +19,6 @@ If you are stuck without the ability to refund then buy the game again on the Sq
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Next section](mods_and_more_enhancements.md)
+
+[Back to Index](index.md)    
