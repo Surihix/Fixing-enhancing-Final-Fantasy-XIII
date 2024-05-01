@@ -106,7 +106,7 @@ https://www.nexusmods.com/finalfantasy13/mods/34
 
 <br>
 
-## 4k Pre-rendered Cutscenes with Higher Quality audio v2.0
+## FFXIII 4K 60 FPS Remastered FMVs 
 
 **Warning:** This mod will take a lot of space and its recommended to download this only when you are sure that you have enough space on the drive on which you have the game installed.
 
