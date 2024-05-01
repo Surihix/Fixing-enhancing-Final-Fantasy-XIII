@@ -24,4 +24,6 @@ Doing this verification should check your game files and re download files that 
 
 <br>
 
-[Back to main section](index.md)
+[Next section](problems.md)
+
+[Back to Index](index.md)    
