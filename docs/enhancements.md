@@ -87,3 +87,7 @@ You will get a small message box telling you how to alter settings again. click 
 
 
 The game will now look great on your screen due to the increased resolution boost provided by DSR / VSR.
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
