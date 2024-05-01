@@ -35,13 +35,13 @@ This section will include the installation of the PS3 or Xbox 360 Button Prompts
 <br>![img](images/nova_mods/ps3_x360_contr_prmpt_dflt_mods/nova_mod-img4.png)
 
 - The mod will be added in the ModPack manager as seen in the image.
-<br>[img]
+<br>![img](images/nova_mods/ps3_x360_contr_prmpt_dflt_mods/nova_mod-img5.png)
 
 - I suggest adding the ***Controller Prompts as Default*** mod the same way that you added the PS3 or X360 Button Prompt modpacks.
-<br>[img]
+<br>![img](images/nova_mods/ps3_x360_contr_prmpt_dflt_mods/nova_mod-img6.png)
 
 - Now you will have to double click on the mod from this list to select it.
-<br>[img]
+<br>![img](images/nova_mods/ps3_x360_contr_prmpt_dflt_mods/nova_mod-img7.png)
 
 - Once you see the preview image of the mod appear on the right side, click on the **Install Mod** option and you will be prompted whether to install the mod or not. Click Yes and wait for the "Installation successful" prompt to appear.
 <br>If that prompt appears then the mod has installed correctly.
