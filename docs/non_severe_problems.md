@@ -4,7 +4,7 @@
 
 The Pre rendered cutscenes (that makes this game a bit huge for its time on PC) are encoded at a slightly lower bitrate compared to the PS3 version. its not that big of an issue for new players, but it can be one for returning players from the PS3 version. 
 
-Please check out the [FFXIII HD Full Motion Video](non_nova_mods.md#ffxiii-hd-full-motion-video), [Better Quality audio for Pre rendered movies](mods_for_both_frameworks.md#better-quality-audio-for-pre-rendered-movies) and the [4k Pre-rendered Cutscenes with Higher Quality audio v2.0](mods_for_both_frameworks.md#4k-pre-rendered-cutscenes-with-higher-quality-audio-v20) mods to improve the quality of the cutscenes.
+Please check out the [FFXIII HD Full Motion Video](non_nova_mods.md#ffxiii-hd-full-motion-video), [Better Quality audio for Pre rendered movies](mods_for_both_frameworks.md#better-quality-audio-for-pre-rendered-movies) and the [4K 60 FPS Remastered FMVs](mods_for_both_frameworks.md#4k-60-fps-remastered-fmvs) mods to improve the quality of the cutscenes.
 
 <br>
 
