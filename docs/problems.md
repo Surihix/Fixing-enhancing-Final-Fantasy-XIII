@@ -14,3 +14,7 @@
 ## Non severe Problems
 * **Poorly encoded Pre rendered cutscenes, making it slightly inferior compared to the PS3 version**
 * **No English audio option for Asia/Japan version of the game**
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
