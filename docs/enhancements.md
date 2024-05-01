@@ -90,4 +90,6 @@ The game will now look great on your screen due to the increased resolution boos
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Next section](non_severe_problems.md)
+
+[Back to Index](index.md)    
