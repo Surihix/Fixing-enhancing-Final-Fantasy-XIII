@@ -4,6 +4,7 @@ plugins:
 
 github:
   is_project_page: false
+  markdown: GFM
 
 title: Fixing and Enhancing Final Fantasy XIII
 description: The one stop guide for installing patches and mods into the steam version of FINAL FANTASY XIII
