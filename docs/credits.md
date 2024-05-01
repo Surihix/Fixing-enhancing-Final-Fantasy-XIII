@@ -17,3 +17,7 @@
 - **<ins>Bartz24</ins>** for the 13-1 randomizer mod
   
 - The **PCgaming wiki site community** for having written solutions for the Macro-blocking and other issues with this PC port
+
+<br>
+
+[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
