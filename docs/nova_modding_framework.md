@@ -126,5 +126,5 @@ Press the appropriate key that matches the voiceover by which you are playing th
 Once the process is done, you will be prompted with a message box stating the following:
 <br>*Finished unpacking game data and movie data. Transition is complete.*
 
-- Now in the folder where you had extracted the zip file, select the extracted folder, then right click and select the delete option.
+- Now in the folder where you had extracted the 7z file, select the extracted folder, then right click and select the delete option.
 <br>![img](images/nova_modding_framework/unpacking_steps_(mods_from_both_frameworks)/upk-game_8.png)
