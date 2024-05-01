@@ -117,4 +117,6 @@ Follow the v1.1 instructions from the mod page for installing this mod.
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Next section](mods_for_both_frameworks.md)
+
+[Back to Index](index.md)    
