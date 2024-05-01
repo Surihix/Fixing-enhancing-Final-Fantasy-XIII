@@ -1,3 +1,5 @@
+# Nova modding framework
+
 ## Important 4gb Patch Clean Up
 
 To use the Nova modding framework, we will have to remove the Crash Fix patch that we applied to our executable from before.
