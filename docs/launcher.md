@@ -44,4 +44,4 @@ Once you are in the main menu, press the **ESC** key and select the Yes option i
 
 <br>
 
-[Back to main section](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/index.md)
+[Back to main section](index.md)
