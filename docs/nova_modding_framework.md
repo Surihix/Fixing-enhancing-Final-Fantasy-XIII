@@ -87,3 +87,34 @@ On clicking either of the options, an prompt will pop up with a Yes or No option
 Click on the Launch game option from the mod manager and if the game launches and functions till the main menu properly, then we are all set to install Nova mods to our game now. 
 
 You can exit the game now and proceed to the [Installing Nova mods](https://github.com/Surihix/Fixing-enhancing-Final-Fantasy-XIII/blob/main/docs/nova_mods.md) section in this guide.
+
+<br>
+
+## Unpacking Steps (for installing mods from both frameworks)
+
+This small transition program linked below should help in properly unpacking the game data that has all non nova mods installed to the files. by unpacking the game data with this script, you will be able to use mods made for the Nova modding framework along with non nova framework mods as well.
+
+This means you can use mods like **The FFXIII HD Project**, **FFXIII HD Full Motion Video**, **Gameplay Tweaks and Hard Mode**, etc along with Nova framework mods.
+
+- Download the file ***13-1 Unpack GameData script_v1.3.7z*** from here:
+<br>https://mega.nz/file/P4AmUZpa#4siTdztwhvFtPZuBB0gJ7Ze9uz-pusMXE033iyrkUDQ
+
+- Right click on the downloaded 7z file and select properties.
+
+- Then in the bottom of the properties window, untick the Unblock checkbox and then click on the Ok button.
+
+- Now extract this zip file with winrar or 7zip software and you will get this following folder.
+
+- Go into the extracted folder and click on the ***FFXIIINovaTransition*** application file. a program should open along with a message box, prompting you to select the *FFXiiiLauncher.exe* file.
+
+- Click Ok on the message box and in the small window that opens, navigate to your game's root directory which is the **FINAL FANTASY XIII** folder. the *FFXiiiLauncher.exe* file is present inside this folder.
+
+- After selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options.
+<br>The first two options are for selecting the voiceovers and the last option is for exiting this installer program.
+
+Press the appropriate key that matches the voiceover by which you are playing the game and the unpacking process will begin. this will take some time to complete depending on your disk speed and during this process, please make sure that you do not interfere with any of the files on the drive where the game is installed.
+
+Once the process, you will be prompted with a message box stating the following:
+<br>*Finished unpacking game data and movie data. Transition is complete.*
+
+- Now in the folder where you had extracted the zip file, select all of the extracted files, then right click and select the delete option.
