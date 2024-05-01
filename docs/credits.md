@@ -10,7 +10,7 @@
   
 - **<ins>Team NGS</ins>** and **<ins>MJB</ins>** for their really cool mods
   
-- **<ins>No_One✔</ins>** for the 4k FMVs mod
+- **<ins>NomNom</ins>** for the 4k FMVs mod
   
 - **<ins>Peklo</ins>** for the Paradigm Shift Quick Camera mod
   
