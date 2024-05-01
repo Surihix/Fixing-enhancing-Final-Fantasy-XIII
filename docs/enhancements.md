@@ -21,8 +21,8 @@ This section of the guide covers the Enhancements that can be applied to the gam
 
 
 ### For AMD card users
-I don't own an AMD card and can only point you to this page on how to get Anisotropic filtering working on your GPU. Follow the Anisotropic filtering section.
-<br>https://www.amd.com/en/support/kb/faq/dh-012#faq-Anisotropic-Filtering
+I don't own a AMD card, and can only point you to the related page on how to do it. follow the Anisotropic filtering section.
+<br>https://www.amd.com/en/resources/support-articles/faqs/DH-012.html#DH-012-Filtering
 
 This should give you sharp and good looking textures for this game.
 
@@ -67,7 +67,7 @@ Here, scroll down and select **DSR Factors**.
 ### For AMD card users
 
 I don't own a AMD card, and can only point you to the related page on how to do it. follow the Virtual Super Resolution section and the game exe is the **ffxiiiimg.exe** located in the `FINAL FANTASY XIII\white_data\prog\win\bin` directory.
-<br>https://www.amd.com/en/support/kb/faq/dh-010
+<br>https://www.amd.com/en/resources/support-articles/faqs/DH-010.html
 
 
 
