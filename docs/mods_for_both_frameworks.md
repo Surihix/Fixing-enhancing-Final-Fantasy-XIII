@@ -9,43 +9,35 @@ This mod by **Krisan Thyme** comes with the options to install either the proper
 
 <br>
 
-- Download the file **FFXIII - Console Button Prompts (v2.0).rar** from this webpage:
+- Download the file *FFXIII - Console Button Prompts (v2.1).zip* from this webpage:
 <br>https://mega.nz/file/q9pjSSDI#K4wFR0XtAY4ql9DrpD1kTMieZU9vnf1ib_Ja_aQfmLE
 
-- After the file is downloaded right-click on the file and extract it with WinRAR software's Extract Here option.
+- Right click on the downloaded zip file and select properties.
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_1.png)
 
-You can see the below image for reference:
-<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_1.png)
+- Then in the bottom of the properties window, untick the Unblock checkbox and then click on the Ok button.
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_2.png)
 
-If you are using 7Zip software then right click, select 7Zip and the Extract Here option.
-You can once again see the image for reference:
-<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_1-2.png)
+- Now extract this zip file with winrar or 7zip software and you will get these following files
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_3.png)
 
+- Click on the ***FFXIIIConsoleButtonPrompts*** application file and a program should open along with a message box, prompting you to select the *FFXiiiLauncher.exe* file.
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_4.png)
 
-- On extracting the rar file, you will get two files and a folder called mod. Hold the Ctrl button and select the two files and the mod folder. once they are all highlighted, right click and select cut. 
-<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_2.png)
+- Click Ok on the message box and in the small window that opens, navigate to your game's root directory which is the **FINAL FANTASY XIII** folder. the *FFXiii2Launcher.exe* file is present inside this folder.
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_5.png)
 
-We will now have to copy these files inside the game's data folder which is inside the **white_data** folder. the location for that is give below:
-<br>`steamapps\common\FINAL FANTASY XIII\white_data\`
+- After selecting the launcher file in the small window, click on the Open button at the bottom of the window and you will be presented with three options.
+<br>The first two options are for selecting the voiceovers and the last option is for exiting this installer program.
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_6.png)
 
-To get to this location first select this game title on your Steam library, right click and select Properties. then in the new window go to "**LOCAL FILES**" and select the "*Browse...*" option.
+- Press the appropriate key that matches the voiceover by which you are playing the game and you will next be prompted with button prompts options.
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_7.png)
 
-This should open the root directory and from there you can get inside the **white_data** sub folder
+- Press the appropriate key that matches with the button prompts that you want the game to display. pressing either one of the keys, should begin the patching proces and once the mod is done installing, you will be prompted with a message box saying that it has patched the button prompts. click on the Ok button in the message box and that should close the program.
 
-- Inside the **white_data** folder, right click and select the paste option. the files will all be moved into this folder.
-<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_3.png)
-
-- Now open the **Install Console Button Prompts** batch file. 
-<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_4.png)
-
-- You will be presented with this command prompt window:
-<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/BtnPrompts_5.png)
-
-- Press the number 1 button on your keyboard if you want the game to display Playstation Button prompts or press the number 2 button on your keyboard if you want the game to display the colored Xbox Button Prompts.
-
-After pressing your desired selection, press enter and a patching process should start. once finished it should say finished in the black window. close the window now and thats it. 
-
-Once its installed, delete the mod folder, the Install Console Button Prompts batch file, and the readme file from the **white_data** folder.
+- Now in the folder where you had extracted the zip file, select all of the extracted files, then right click and select the delete option.
+<br>![img](images/mods_for_both_frameworks/ps3_x360_btn_prompts/btn-pr_8.png)
 
 <br>
 
