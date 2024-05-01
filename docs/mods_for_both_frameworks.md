@@ -76,7 +76,7 @@ The instructions for installing this mod is provided in the mod's description pa
 
 ## 4k Pre-rendered Cutscenes with Higher Quality audio v2.0
 
-This mod by **No_One✔**, replaces the lower resolution FMVs or the pre rendered cutscenes that the PC version of this game comes by default with much AI upscaled 4k resolution cutscenes.
+This mod by **NomNom**, replaces the lower resolution FMVs or the pre rendered cutscenes that the PC version of this game comes by default with much AI upscaled 4k resolution cutscenes.
 
 **Compatibility notice:** The mod can be installed via Nova Chrysalia mod manager. skip this if you want to install mods from both the frameworks as we will be installing the Nova version of this mod.
 
